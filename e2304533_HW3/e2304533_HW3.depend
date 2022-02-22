@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1642766571 source:c:\users\barisemektar\desktop\hw3\e2304533_hw3\main.cpp
+	<iostream>
+	<fstream>
+	"Data.h"
+	"LinkedList.h"
+	"Waiting.h"
+	"BST.h"
+
+1642160057 c:\users\barisemektar\desktop\hw3\e2304533_hw3\node.h
+
+1642676320 source:d:\yeni_klasör1\metu_ee\4.1\441\regular\projects\e2304533_hw3\hw3\e2304533_hw3\main.cpp
+	<iostream>
+	<fstream>
+	"Data.h"
+	"Waiting.h"
+	"BST.h"
+
+1642607836 d:\yeni_klasör1\metu_ee\4.1\441\regular\projects\e2304533_hw3\hw3\e2304533_hw3\node.h
+
+1642658450 d:\yeni_klasör1\metu_ee\4.1\441\regular\projects\e2304533_hw3\hw3\e2304533_hw3\waiting.h
+
+1642675470 d:\yeni_klasör1\metu_ee\4.1\441\regular\projects\e2304533_hw3\hw3\e2304533_hw3\linkedlist.h
+	<iostream>
+
+1642675965 d:\yeni_klasör1\metu_ee\4.1\441\regular\projects\e2304533_hw3\hw3\e2304533_hw3\data.h
+
+1642676365 d:\yeni_klasör1\metu_ee\4.1\441\regular\projects\e2304533_hw3\hw3\e2304533_hw3\bst.h
+	<iostream>
+
+1642740586 c:\users\barisemektar\desktop\hw3\e2304533_hw3\data.h
+
+1642749372 c:\users\barisemektar\desktop\hw3\e2304533_hw3\waiting.h
+
+1642744651 c:\users\barisemektar\desktop\hw3\e2304533_hw3\bst.h
+	<iostream>
+
+1642766888 c:\users\barisemektar\desktop\hw3\e2304533_hw3\linkedlist.h
+	"Data.h"
+
+1642835652 source:d:\yeni_klasör1\metu_ee\4.1\441\regular\projects\e2304533_hw3\e2304533_hw3\main.cpp
+	<iostream>
+	<fstream>
+	"Data.h"
+	"LinkedList.h"
+	"BSTree.h"
+
+1642791855 d:\yeni_klasör1\metu_ee\4.1\441\regular\projects\e2304533_hw3\e2304533_hw3\data.h
+
+1642832692 d:\yeni_klasör1\metu_ee\4.1\441\regular\projects\e2304533_hw3\e2304533_hw3\linkedlist.h
+	"Data.h"
+
+1642749374 d:\yeni_klasör1\metu_ee\4.1\441\regular\projects\e2304533_hw3\e2304533_hw3\waiting.h
+
+1642744652 d:\yeni_klasör1\metu_ee\4.1\441\regular\projects\e2304533_hw3\e2304533_hw3\bst.h
+	<iostream>
+
+1642835586 d:\yeni_klasör1\metu_ee\4.1\441\regular\projects\e2304533_hw3\e2304533_hw3\bstree.h
+	"Data.h"
+
